@@ -6,3 +6,6 @@ my:
   love:
     is: gone
     isTrue: false
+
+go:
+  away: yes
