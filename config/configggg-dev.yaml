@@ -4,8 +4,9 @@ name:
 
 my:
   love:
-    is: gone-version3
+    is: gone-version3 nanjingLib: yes
     isTrue: false
+    
 
 go:
   away: yes
