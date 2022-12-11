@@ -4,7 +4,7 @@ name:
 
 my:
   love:
-    is: gone-version3 nanjingLib yes
+    is: gone-version3 nanjingLib yes nonono
     isTrue: false
     
 
